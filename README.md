@@ -1,8 +1,10 @@
 # The-Sparks-founadtion-intership
 Internship-Tasks
+
 This is one of the tasks given to us in the internship we are doing with The Sparks Foundation i.e GRIP(Graduate Rotational Internship Program )
 
 #Task1
+
 Prediction using Supervised ML
 ● Predict the percentage of an student based on the no. of study hours.
 
@@ -13,13 +15,16 @@ Prediction using Supervised ML
 ● Dataset : http://bit.ly/w-data
 
 #Task2
+
 Prediction using Unsupervised ML
 ● From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 
 ● Dataset : https://bit.ly/3kXTdox
 
 #Task 3
+
 Exploratory Data Analysis
+
 ● Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
 
 ● As a business manager, try to find out the weak areas where you can work to make more profit.
@@ -29,7 +34,9 @@ Exploratory Data Analysis
 ● Dataset: https://bit.ly/3i4rbWl
 
 #Task 4
+
 Exploratory Data Analysis - Sports
+
 ● Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’
 
 ● As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team.
@@ -39,7 +46,9 @@ Exploratory Data Analysis - Sports
 ● Dataset:https://bit.ly/34SRn3b
 
 #Task 5
+
 Prediction using Decision Tree Algorithm
+
 ● Create the Decision Tree classifier and visualize it graphically.
 
 ● The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
